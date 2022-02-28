@@ -8,4 +8,4 @@ Using weather data over a 6 year period from 2010 to 2016 can help determine the
 - Here are the temperature statistics for December:
 - ![](https://github.com/ryanstaudhammer/Surfs_Up/blob/main/Resources/December.png)
 ## Summary of the Surf Shop Analysis
-some more stuff
+Some recommendations I would make for this analysis would be to include more than just temperatures in the weather data. After all W. Avy started a surf shop, but it failed due to rain. Including rain in the weather anaysis would help. 
